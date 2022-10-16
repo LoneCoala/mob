@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mobile_lab_5</string>
+    <string name="first_price">92</string>
+    <string name="second_price">95</string>
+    <string name="third_price">98</string>
+    <string name="button">Посчитать</string>
+    <string name="hint">Введите кол-во литров</string>
+    <string name="text">Стоимость:</string>
+
+</resources>
